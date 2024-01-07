@@ -1,0 +1,1 @@
+# Anomaly_In_WindTurbine_Images
